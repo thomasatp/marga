@@ -1,28 +1,23 @@
 {
   "files": {
-    "main.css": "/marga/static/css/main.647cd4e6.chunk.css",
-    "main.js": "/marga/static/js/main.9dc85ebe.chunk.js",
-    "main.js.map": "/marga/static/js/main.9dc85ebe.chunk.js.map",
-    "runtime-main.js": "/marga/static/js/runtime-main.1e4ffca3.js",
-    "runtime-main.js.map": "/marga/static/js/runtime-main.1e4ffca3.js.map",
-    "static/js/2.55cbeea0.chunk.js": "/marga/static/js/2.55cbeea0.chunk.js",
-    "static/js/2.55cbeea0.chunk.js.map": "/marga/static/js/2.55cbeea0.chunk.js.map",
-    "static/js/3.f5bbe761.chunk.js": "/marga/static/js/3.f5bbe761.chunk.js",
-    "static/js/3.f5bbe761.chunk.js.map": "/marga/static/js/3.f5bbe761.chunk.js.map",
+    "main.css": "/marga/static/css/main.b6d18598.chunk.css",
+    "main.js": "/marga/static/js/main.251112dc.chunk.js",
+    "main.js.map": "/marga/static/js/main.251112dc.chunk.js.map",
+    "runtime-main.js": "/marga/static/js/runtime-main.522d7090.js",
+    "runtime-main.js.map": "/marga/static/js/runtime-main.522d7090.js.map",
+    "static/js/2.971dbff8.chunk.js": "/marga/static/js/2.971dbff8.chunk.js",
+    "static/js/2.971dbff8.chunk.js.map": "/marga/static/js/2.971dbff8.chunk.js.map",
+    "static/js/3.9f896666.chunk.js": "/marga/static/js/3.9f896666.chunk.js",
+    "static/js/3.9f896666.chunk.js.map": "/marga/static/js/3.9f896666.chunk.js.map",
     "index.html": "/marga/index.html",
-    "static/css/main.647cd4e6.chunk.css.map": "/marga/static/css/main.647cd4e6.chunk.css.map",
-    "static/js/2.55cbeea0.chunk.js.LICENSE.txt": "/marga/static/js/2.55cbeea0.chunk.js.LICENSE.txt",
-    "static/media/basket.178724fd.svg": "/marga/static/media/basket.178724fd.svg",
-    "static/media/margarita.43c5c287.svg": "/marga/static/media/margarita.43c5c287.svg",
-    "static/media/miniQuit.26b83c67.svg": "/marga/static/media/miniQuit.26b83c67.svg",
-    "static/media/minus.ab0c1c86.svg": "/marga/static/media/minus.ab0c1c86.svg",
-    "static/media/plus.e8253e89.svg": "/marga/static/media/plus.e8253e89.svg",
-    "static/media/quit.ba087d61.svg": "/marga/static/media/quit.ba087d61.svg"
+    "static/css/main.b6d18598.chunk.css.map": "/marga/static/css/main.b6d18598.chunk.css.map",
+    "static/js/2.971dbff8.chunk.js.LICENSE.txt": "/marga/static/js/2.971dbff8.chunk.js.LICENSE.txt",
+    "static/media/margarita.ba5782b3.svg": "/marga/static/media/margarita.ba5782b3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1e4ffca3.js",
-    "static/js/2.55cbeea0.chunk.js",
-    "static/css/main.647cd4e6.chunk.css",
-    "static/js/main.9dc85ebe.chunk.js"
+    "static/js/runtime-main.522d7090.js",
+    "static/js/2.971dbff8.chunk.js",
+    "static/css/main.b6d18598.chunk.css",
+    "static/js/main.251112dc.chunk.js"
   ]
 }
