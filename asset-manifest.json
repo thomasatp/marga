@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/marga/static/css/main.6537637b.chunk.css",
-    "main.js": "/marga/static/js/main.ec663a9d.chunk.js",
-    "main.js.map": "/marga/static/js/main.ec663a9d.chunk.js.map",
+    "main.css": "/marga/static/css/main.0e8331cc.chunk.css",
+    "main.js": "/marga/static/js/main.3e8becd3.chunk.js",
+    "main.js.map": "/marga/static/js/main.3e8becd3.chunk.js.map",
     "runtime-main.js": "/marga/static/js/runtime-main.522d7090.js",
     "runtime-main.js.map": "/marga/static/js/runtime-main.522d7090.js.map",
-    "static/js/2.971dbff8.chunk.js": "/marga/static/js/2.971dbff8.chunk.js",
-    "static/js/2.971dbff8.chunk.js.map": "/marga/static/js/2.971dbff8.chunk.js.map",
+    "static/js/2.f1d547b2.chunk.js": "/marga/static/js/2.f1d547b2.chunk.js",
+    "static/js/2.f1d547b2.chunk.js.map": "/marga/static/js/2.f1d547b2.chunk.js.map",
     "static/js/3.9f896666.chunk.js": "/marga/static/js/3.9f896666.chunk.js",
     "static/js/3.9f896666.chunk.js.map": "/marga/static/js/3.9f896666.chunk.js.map",
     "index.html": "/marga/index.html",
-    "static/css/main.6537637b.chunk.css.map": "/marga/static/css/main.6537637b.chunk.css.map",
-    "static/js/2.971dbff8.chunk.js.LICENSE.txt": "/marga/static/js/2.971dbff8.chunk.js.LICENSE.txt",
-    "static/media/margarita.ba5782b3.svg": "/marga/static/media/margarita.ba5782b3.svg"
+    "static/css/main.0e8331cc.chunk.css.map": "/marga/static/css/main.0e8331cc.chunk.css.map",
+    "static/js/2.f1d547b2.chunk.js.LICENSE.txt": "/marga/static/js/2.f1d547b2.chunk.js.LICENSE.txt",
+    "static/media/cactus.505938f4.jpg": "/marga/static/media/cactus.505938f4.jpg",
+    "static/media/calathea.ff7232d0.jpg": "/marga/static/media/calathea.ff7232d0.jpg",
+    "static/media/calathea2.12367dea.jpg": "/marga/static/media/calathea2.12367dea.jpg",
+    "static/media/ficuselastica.1f981676.jpg": "/marga/static/media/ficuselastica.1f981676.jpg",
+    "static/media/ficuslyrata.5ec44a64.jpg": "/marga/static/media/ficuslyrata.5ec44a64.jpg",
+    "static/media/margarita.ba5782b3.svg": "/marga/static/media/margarita.ba5782b3.svg",
+    "static/media/monstera.40a08886.jpg": "/marga/static/media/monstera.40a08886.jpg",
+    "static/media/photo.5098d0bc.jpg": "/marga/static/media/photo.5098d0bc.jpg",
+    "static/media/photoargente.25ce847e.jpg": "/marga/static/media/photoargente.25ce847e.jpg",
+    "static/media/zamioculcas.fa1180bf.jpg": "/marga/static/media/zamioculcas.fa1180bf.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.522d7090.js",
-    "static/js/2.971dbff8.chunk.js",
-    "static/css/main.6537637b.chunk.css",
-    "static/js/main.ec663a9d.chunk.js"
+    "static/js/2.f1d547b2.chunk.js",
+    "static/css/main.0e8331cc.chunk.css",
+    "static/js/main.3e8becd3.chunk.js"
   ]
 }
