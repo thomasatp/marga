@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/marga/static/css/main.75966c55.chunk.css",
-    "main.js": "/marga/static/js/main.f5889f89.chunk.js",
-    "main.js.map": "/marga/static/js/main.f5889f89.chunk.js.map",
+    "main.js": "/marga/static/js/main.e43e601d.chunk.js",
+    "main.js.map": "/marga/static/js/main.e43e601d.chunk.js.map",
     "runtime-main.js": "/marga/static/js/runtime-main.afa601c6.js",
     "runtime-main.js.map": "/marga/static/js/runtime-main.afa601c6.js.map",
     "static/js/2.f1d547b2.chunk.js": "/marga/static/js/2.f1d547b2.chunk.js",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.afa601c6.js",
     "static/js/2.f1d547b2.chunk.js",
     "static/css/main.75966c55.chunk.css",
-    "static/js/main.f5889f89.chunk.js"
+    "static/js/main.e43e601d.chunk.js"
   ]
 }
